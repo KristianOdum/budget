@@ -1,0 +1,31 @@
+[13:30:52.288] [INFO] [root] This is an info message
+[13:30:52.304] [DEBUG] [importer] data dir = C:\Users\kristian\Desktop\budget\data
+[INFO] This is an info message
+[DEBUG] data dir = C:\Users\kristian\Desktop\budget\data
+[INFO] This is an info message
+[DEBUG] data dir = C:\Users\kristian\Desktop\budget\data
+[INFO] This is an info message
+[DEBUG] data dir = C:\Users\kristian\Desktop\budget\data
+[ERROR] Transaction parse fail: '﻿31-12-2025;Rente af indestående;2.534,48;DKK'
+[INFO] This is an info message
+[DEBUG] data dir = C:\Users\kristian\Desktop\budget\data
+[INFO] This is an info message
+[DEBUG] data dir = C:\Users\kristian\Desktop\budget\data
+[INFO] This is an info message
+[DEBUG] data dir = C:\Users\kristian\Desktop\budget\data
+[INFO] This is an info message
+[DEBUG] data dir = C:\Users\kristian\Desktop\budget\data
+[INFO] This is an info message
+[DEBUG] data dir = C:\Users\kristian\Desktop\budget\data
+[INFO] This is an info message
+[DEBUG] data dir = C:\Users\kristian\Desktop\budget\data
+[INFO] This is an info message
+[DEBUG] data dir = C:\Users\kristian\Desktop\budget\data
+[INFO] This is an info message
+[DEBUG] data dir = C:\Users\kristian\Desktop\budget\data
+[INFO] This is an info message
+[DEBUG] data dir = C:\Users\kristian\Desktop\budget\data
+[ERROR] Transaction parse fail: '3'
+[INFO] This is an info message
+[DEBUG] data dir = C:\Users\kristian\Desktop\budget\data
+[DEBUG] Imported 612 transactions
