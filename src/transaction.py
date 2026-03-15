@@ -246,6 +246,8 @@ def category_to_pretty_dk(cat: Category) -> str:
             return "Grøn ejerafgift"
         case Category.FUEL_AND_PARKING:
             return "Brændstof og parkering"
+        case Category.REPAIR_AND_WHEELS:
+            return "Reparation og dækservice"
         case Category.PUBLIC_TRANSPORTATION:
             return "Offentlig transport"
         case Category.BICYCLE:

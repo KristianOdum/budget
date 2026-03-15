@@ -15,7 +15,10 @@ def list_category_matchings(transactions: list[Transaction]):
 
     print("Listing all transactions")
     for t in sorted_t:
-        print(f"{t.transfer.description[:50]: <50} -> {t.category.value: <{max_category_width}} [{t.transfer.amount: 8.2f} {t.transfer.valuta} @ {t.owner}]")
+        print(
+            f"{t.transfer.description[:50]: <50} -> {t.category.value: <{max_category_width}}"
+            f" [{t.transfer.amount: 8.2f} {t.transfer.valuta} @ {t.owner} - {t.transfer.date.strftime('%Y-%m-%d')}]"
+        )
 
 
 def inflate_linked_categories(expenses: dict[Category, float]):
